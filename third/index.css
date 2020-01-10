@@ -1,0 +1,40 @@
+
+
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .r {
+    height: 100px;
+    width: 100%;
+  }
+  
+  .row-big {
+    height: 200px;
+    width: 100%;
+  }
+  
+  .r1 {
+    background-color: #D8D8D8;
+    padding: 55px;
+    box-sizing: border-box;
+  }
+  
+  
+  
+  .r3 {
+    background-color: rgb(11, 83, 177);
+  }
+  
+  .r4 {
+    background-color: rgb(3, 102, 80);
+  }
+  
+  .r5 {
+    background-color: rgb(79, 151, 7);
+  }
+  
+  .r6 {
+    background-color: rgb(238, 109, 4);
+  }

@@ -1,0 +1,25 @@
+
+body{
+    background-color: rgb(185, 179, 179);
+    height: 100vw;
+    width: 100vw;
+}
+.back{
+    background-color: rgb(85, 83, 82);
+    height: 20vw;
+    width: 100%
+}
+.bottom{
+    background-color: rgb(240, 233, 233);
+    margin: auto;
+    height: 75%;
+    width: 75%;
+}
+.top{
+    background-color: rgb(85, 83, 82);
+    margin: auto;
+    height: 20%;
+    width: 75vw;
+
+
+}
