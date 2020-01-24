@@ -4,7 +4,14 @@ body, html {
     margin: 0;
     padding: 0;
   }
+ 
   
+  .blue {
+    width: 50px;
+    height: 50px;
+    background-color: #4A90E2;
+    margin: 10px;
+  }
   .r {
     height: 100px;
     width: 100%;
@@ -20,8 +27,6 @@ body, html {
     padding: 55px;
     box-sizing: border-box;
   }
-  
-  
   
   .r3 {
     background-color: rgb(11, 83, 177);
